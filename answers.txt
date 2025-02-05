@@ -2,3 +2,7 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: Business, i think the intersectionality between 
 business and data science is very large which results in different roles
 such as a data analyst or anyone who has to work with numbers frequently. 
+Q1: Why might we consider using Git?
+Answer: Git is used for version control and collaboration
+It's useful to host ur code to be graded, reverting back to 
+old versions of your code, etc
